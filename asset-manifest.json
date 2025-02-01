@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/typing-speed-test/static/css/main.cfdf371c.css",
-    "main.js": "/typing-speed-test/static/js/main.b254c0c4.js",
+    "main.js": "/typing-speed-test/static/js/main.65e51885.js",
     "index.html": "/typing-speed-test/index.html",
     "main.cfdf371c.css.map": "/typing-speed-test/static/css/main.cfdf371c.css.map",
-    "main.b254c0c4.js.map": "/typing-speed-test/static/js/main.b254c0c4.js.map"
+    "main.65e51885.js.map": "/typing-speed-test/static/js/main.65e51885.js.map"
   },
   "entrypoints": [
     "static/css/main.cfdf371c.css",
-    "static/js/main.b254c0c4.js"
+    "static/js/main.65e51885.js"
   ]
 }
